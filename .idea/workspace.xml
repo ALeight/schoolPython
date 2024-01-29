@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="884572f8-455b-4832-9718-682b399294fe" name="Changes" comment="" />
+    <list default="true" id="884572f8-455b-4832-9718-682b399294fe" name="Changes" comment="Part two, task 6 in this weeks math">
+      <change afterPath="$PROJECT_DIR$/Oblig/OB2_T7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig/somelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oblig/task7b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/OB2_W3P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oblig/OB2_W3P2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Oblig2_W3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/task7b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bunaSTRETCH.png" beforeDir="false" afterPath="$PROJECT_DIR$/IMAGES/bunaSTRETCH.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,25 +25,55 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2amLJiI0tekxtsBf4TxcS5bH4i5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AW3_Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AW3_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson2_movingwithkeys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB2_T7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Oblig2_W3P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.W03_Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.differentshapes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.movingPyg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.somelist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sympytest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task7b.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/47466/PycharmProjects/schoolPython/Classes&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\47466\PycharmProjects\schoolPython\Classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\47466\PycharmProjects\schoolPython\testing" />
+      <recent name="C:\Users\47466\PycharmProjects\schoolPython\Oblig" />
+      <recent name="C:\Users\47466\PycharmProjects\schoolPython" />
+      <recent name="C:\Users\47466\PycharmProjects\schoolPython\Classes" />
+      <recent name="C:\Users\47466\PycharmProjects\schoolPython\IMAGES" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -43,7 +88,31 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\47466\PycharmProjects\schoolPython\Classes\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task7b" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\47466\PycharmProjects\schoolPython\Oblig\task7b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,18 +138,78 @@
       <option name="presentableId" value="Default" />
       <updated>1704918738871</updated>
       <workItem from="1704918775485" duration="4000" />
+      <workItem from="1705672027525" duration="450000" />
+      <workItem from="1705672486959" duration="2260000" />
+      <workItem from="1705684629024" duration="4983000" />
+      <workItem from="1705740807253" duration="2083000" />
+      <workItem from="1705743283761" duration="5864000" />
+      <workItem from="1706004525117" duration="16598000" />
+      <workItem from="1706123545307" duration="7013000" />
+      <workItem from="1706267426056" duration="14932000" />
+      <workItem from="1706346793218" duration="6101000" />
+      <workItem from="1706445588051" duration="1614000" />
+      <workItem from="1706520769461" duration="4922000" />
     </task>
+    <task id="LOCAL−00001" summary="Finalized objects">
+      <option name="closed" value="true" />
+      <created>1705742841530</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1705742841530</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Part one of this weeks oblig in math">
+      <option name="closed" value="true" />
+      <created>1706127144156</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1706127144156</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Part two, task 6 in this weeks math">
+      <option name="closed" value="true" />
+      <created>1706129200096</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1706129200096</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finalized objects" />
+    <MESSAGE value="Part one of this weeks oblig in math" />
+    <MESSAGE value="Part two, task 6 in this weeks math" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part two, task 6 in this weeks math" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
+          <url>file://$PROJECT_DIR$/Classes/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classes/differentshapes.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/schoolPython$W03_Task.coverage" NAME="W03_Task Coverage Results" MODIFIED="1706004950755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/schoolPython$Oblig2_W3P2.coverage" NAME="Oblig2_W3P2 Coverage Results" MODIFIED="1706128811023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/schoolPython$Lesson2_movingwithkeys.coverage" NAME="Lesson2_movingwithkeys Coverage Results" MODIFIED="1706271923867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/OneDrive/Dokumenter/NTNU - Programmering/BMA1020" />
+    <SUITE FILE_PATH="coverage/schoolPython$somelist.coverage" NAME="somelist Coverage Results" MODIFIED="1706520944346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oblig" />
+    <SUITE FILE_PATH="coverage/schoolPython$task7b.coverage" NAME="task7b Coverage Results" MODIFIED="1706523746600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oblig" />
+    <SUITE FILE_PATH="coverage/schoolPython$differentshapes.coverage" NAME="differentshapes Coverage Results" MODIFIED="1705742473898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/schoolPython$AW3_Task.coverage" NAME="AW3_Task Coverage Results" MODIFIED="1706031836408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/schoolPython$movingPyg.coverage" NAME="movingPyg Coverage Results" MODIFIED="1705758859429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/schoolPython$main.coverage" NAME="main Coverage Results" MODIFIED="1706520920822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/schoolPython$OB2_T7.coverage" NAME="OB2_T7 Coverage Results" MODIFIED="1706524920642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oblig" />
+    <SUITE FILE_PATH="coverage/schoolPython$sympytest.coverage" NAME="sympytest Coverage Results" MODIFIED="1706021040745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/schoolPython$AW3_Task2.coverage" NAME="AW3_Task2 Coverage Results" MODIFIED="1706124205634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
   </component>
 </project>
