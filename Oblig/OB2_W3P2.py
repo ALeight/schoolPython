@@ -48,23 +48,3 @@ print(crossprod(vec_u, vec_v))
 print(crossprod(vec_v, vec_u))
 print(areavec(vec_u, vec_v))
 
-
-mylist = [1, 3, 5, 2, 2, 6, 7, 8, 5, 5, 5, 8]
-
-
-# Computing a function which returns number of elements larger than both its predecessor and its successor
-# Finish the implementation of the function
-def counter(someList):
-    count = 0
-    if len(someList) < 3:
-        return 0
-    # for x in SomeList[2:] --> [2:], the colon implies it copies the list
-    for x in range(len(someList[2:])):  # numbers before and after colon implies where list is sliced
-        if (someList[x - 1] < someList[x]) and (someList[x] > someList[x + 1]):
-            count += 1
-        if someList[x] == -1:
-            break
-    return count
-
-
-counter(mylist)
