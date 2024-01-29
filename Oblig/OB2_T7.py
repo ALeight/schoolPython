@@ -13,6 +13,7 @@ batch1 = pg.graphics.Batch()
 batch2 = pg.graphics.Batch()
 
 
+colors = [(255, 0, 0), (0, 255, 0), (150, 150, 0)]
 # for task a, I need four distinct colours. Second part is creating line-segments and several disks moving
 # around the screen with random velocities chosen at the start.
 def task_circle(n):
@@ -38,7 +39,6 @@ def task_line(n):
                                     (rd.randrange(105, 170, 15),
                                         rd.randrange(105, 170, 15),
                                         rd.randrange(171, 209, 15)), batch=batch2))
-
     return linelist
 
 
@@ -64,14 +64,15 @@ def on_draw():
 
 def update(dt):
     global makeacircle, makealine
-    vel_x = 100
-    vel_y = 100
+    vel_x = rd.randint(15, 50)
+    vel_y = rd.randint(15, 50)
 
     for circle in makeacircle:
         circle.x += dt * vel_x
         circle.y += dt * vel_y
         if circle.x > window.width - circle.radius:
             circle.x = window.width - circle.radius
+            # if circle at the end of the screen, it should appear at the other side
             vel_x *= -1  # reversing x-velocity
         elif circle.x < circle.radius:
             circle.x = circle.radius
